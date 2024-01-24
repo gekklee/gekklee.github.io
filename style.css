@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f0f8ff; /* Light blue background color */
+    color: #333; /* Dark text color */
+}
+
+header {
+    background-color: #87ceeb; /* Sky blue background color for the header */
+    padding: 10px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #1e90ff; /* Dodger blue color for section headings */
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #ddd; /* Add a light border around images */
+    border-radius: 4px; /* Optional: Add rounded corners to images */
+}
+
+footer {
+    background-color: #87ceeb; /* Sky blue background color for the footer */
+    padding: 10px;
+    text-align: center;
+}
+
+/* Optional: Add some spacing around paragraphs */
+p {
+    margin-bottom: 10px;
+}
