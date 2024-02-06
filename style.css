@@ -39,3 +39,6 @@ footer {
 p {
     margin-bottom: 10px;
 }
+html {
+    cursor: url("img/Cursor.png") , pointer;
+}
