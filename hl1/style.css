@@ -19,7 +19,3 @@ img {
     margin: 20px;
     filter: drop-shadow(5px 5px 5px rgba(0, 0, 0, 0.5));
 }
-
-audio {
-    display: none;
-}
