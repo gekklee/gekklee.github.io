@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f0f8ff;
+    color: #333;
+}
+
+header {
+    background-color: #87ceeb;
+    padding: 10px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #1e90ff;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+footer {
+    background-color: #87ceeb; 
+    padding: 10px;
+    text-align: center;
+}
+
+p {
+    margin-bottom: 10px;
+}
+html {
+    cursor: url("img/Cursor.png") , pointer;
+}
